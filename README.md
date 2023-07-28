@@ -4,14 +4,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a highschooler trying to gain experience in the world of computer science. I have mad intermediate to difficult projects with Java, Python, Labview, Scratch, C#, and C++. 
-<br>
-<br>
-<div align="center">
 
-[Email Me](masaabfarhan123@gmail.com)
-</div>
-</p>    
-<br>
 <!-- Languages and Tools -->
 
 <div class="stats" align="center">
