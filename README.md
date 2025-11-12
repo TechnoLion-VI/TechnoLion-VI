@@ -1,88 +1,70 @@
-<h1 style="color: #44AEFB;">  Masaab Farhan </h1>
+<h1 align="center">⚡ Masaab Farhan ⚡</h1>
 
-
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-
-<!-- Languages and Tools -->
-
-<div class="stats" align="center">
-
-
-
-<h1 style="color: #44AEFB;">Masaab Farhan</h1>
-
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-    🎓 Electrical Engineering student @ University of Texas at Dallas <br>
-    🧠 Passionate about embedded systems, game development, and machine learning <br>
-    💻 Skilled in Python, C++, C, Java, Unity, Unreal Engine, TensorFlow, and Arduino/Raspberry Pi <br>
-    🎮 Builder of multiplayer games, hardware automation systems, and intelligent devices  
+<p align="center">
+    <b>Electrical Engineering @ University of Texas at Dallas</b><br>
+    Building intelligent systems that merge hardware, software, and AI.
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, C++, C, Java  
-**Hardware/IoT:** Raspberry Pi, Arduino, PWM, GPIO  
-**ML & Tools:** TensorFlow, OpenCV, Git, VS Code  
-**Game Development:** Unity, Unreal Engine 4, Blender, Photon Networking  
-**Concepts:** Real-Time Systems, Object-Oriented Programming, Image Processing, Circuit Design
+## 🧠 About Me
+- 🎓 Electrical Engineering student with passion for **embedded systems, machine learning, and game development**
+- 💡 Experienced with **Python, C++, C, Java**, and **hardware prototyping** using Arduino & Raspberry Pi  
+- ⚙️ Skilled in **TensorFlow, OpenCV, Unreal Engine, and Unity**
+- 🚀 Constantly exploring intersections of **real-time systems and intelligent automation**
+
+---
+
+## 🛠️ Tech Stack
+| Category | Tools |
+|-----------|--------|
+| **Languages** | Python, C++, C, Java |
+| **Hardware/IoT** | Raspberry Pi, Arduino, PWM, GPIO |
+| **ML & Tools** | TensorFlow, OpenCV, Git, VS Code |
+| **Game Engines** | Unity, Unreal Engine 4, Blender, Photon Networking |
+| **Concepts** | Real-Time Systems, OOP, Image Processing, Circuit Design |
 
 ---
 
 ## 🔧 Highlight Projects
+### 🌱 Smart Irrigation System  
+Raspberry Pi + TensorFlow + moisture sensors for automated plant watering  
+- Predicts optimal watering schedule based on live sensor data  
+- [View Repo »](https://github.com/TechnoLion-VI/SmartIrrigation)
 
-- **Smart Irrigation System:** Raspberry Pi + moisture sensors + TensorFlow to automate plant watering and monitor plant health  
-- **Thermal-Regulating Laptop Drawer:** Arduino-controlled thermal system using temp sensors and Python for cooling optimization  
-- **Switch Back (Unity):** Multiplayer racing game built with Photon Networking and Unity physics engine  
-- **CoD Zombies-Style FPS (Unreal):** Wave-based enemy system with custom 3D Blender models  
-- **Hollow Knight-Inspired Platformer:** Tight controls, animation blending, and polished level design in Unreal Engine  
+### 💻 Thermal-Regulating Laptop Drawer  
+Arduino-controlled fan and temperature sensors to manage drawer heat  
+- Dynamic PWM fan control with Python monitoring interface  
+
+### 🚗 Switch Back (Unity)  
+Multiplayer racing game using Photon Networking  
+- Synchronized physics and matchmaking for up to 8 players  
+
+### 🧟 CoD Zombies-Style FPS (Unreal)  
+Wave-based FPS with enemy AI and custom 3D Blender assets  
+
+### ⚔️ Hollow Knight-Inspired Platformer  
+2D platformer emphasizing smooth animation blending & player control
 
 ---
 
+## 🔬 Current Focus
+- Buck converter simulation and PCB layout using LTSpice & KiCad  
+- Exploring embedded ML for low-power sensor systems  
+- Building real-time data dashboards for hardware telemetry
+
+---
+
+## 📊 Stats
 <div align="center">
-
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoLion-VI&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoLion-VI&layout=compact&theme=algolia&border_radius=20"/>
 </div>
 
 ---
 
-## 📫 Let's Connect  
-📌 [LinkedIn](https://www.linkedin.com/in/masaabfarhan)  
-🐱 [GitHub](https://github.com/TechnoLion-VI)
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masaabfarhan)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechnoLion-VI)
+[![Email](https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail)](mailto:masaab.farhan@utdallas.edu)
 
 > *Always building, always learning.*
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
