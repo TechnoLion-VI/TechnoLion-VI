@@ -8,10 +8,10 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Electrical Engineering student with passion for **embedded systems, machine learning, and game development**
-- 💡 Experienced with **Python, C++, C, Java**, and **hardware prototyping** using Arduino & Raspberry Pi  
-- ⚙️ Skilled in **TensorFlow, OpenCV, Unreal Engine, and Unity**
-- 🚀 Constantly exploring intersections of **real-time systems and intelligent automation**
+- 🎓 Electrical Engineering student passionate about **embedded systems, circuit design, and intelligent automation**  
+- 💡 Experienced with **Python, C++, C, Java**, and hardware prototyping using **Arduino & Raspberry Pi**  
+- ⚙️ Skilled in **TensorFlow, OpenCV, Unreal Engine, and Unity**  
+- 🚀 Constantly exploring intersections of **real-time systems, ML, and practical electronics**
 
 ---
 
@@ -27,31 +27,25 @@
 ---
 
 ## 🔧 Highlight Projects
-### 🌱 Smart Irrigation System  
-Raspberry Pi + TensorFlow + moisture sensors for automated plant watering  
-- Predicts optimal watering schedule based on live sensor data  
-- [View Repo »](https://github.com/TechnoLion-VI/SmartIrrigation)
 
-### 💻 Thermal-Regulating Laptop Drawer  
-Arduino-controlled fan and temperature sensors to manage drawer heat  
-- Dynamic PWM fan control with Python monitoring interface  
-
-### 🚗 Switch Back (Unity)  
-Multiplayer racing game using Photon Networking  
-- Synchronized physics and matchmaking for up to 8 players  
-
-### 🧟 CoD Zombies-Style FPS (Unreal)  
-Wave-based FPS with enemy AI and custom 3D Blender assets  
-
-### ⚔️ Hollow Knight-Inspired Platformer  
-2D platformer emphasizing smooth animation blending & player control
+- **Smart Irrigation System:** Raspberry Pi + moisture sensors + TensorFlow to automate plant watering and monitor plant health  
+- **Thermal-Regulating Laptop Drawer:** Arduino-controlled thermal system using temp sensors and Python for cooling optimization  
+- **Buck Converter Design (LTSpice):** Designed and simulated a high-efficiency DC-DC buck converter in LTSpice achieving ~95% efficiency. Optimized switching parameters, minimized ripple, and analyzed transient performance through iterative simulations.  
+  <p align="center">
+    <img src="https://github.com/TechnoLion-VI/BuckConverter/blob/main/simulation_screenshot.png" width="500" alt="Buck Converter Simulation (LTSpice)">
+    <br>
+    <i>Figure: Buck Converter voltage and current waveforms (simulation output)</i>
+  </p>  
+- **Switch Back (Unity):** Multiplayer racing game built with Photon Networking and Unity physics engine  
+- **CoD Zombies-Style FPS (Unreal):** Wave-based enemy system with custom 3D Blender models  
+- **Hollow Knight-Inspired Platformer:** Tight controls, animation blending, and polished level design in Unreal Engine  
 
 ---
 
 ## 🔬 Current Focus
-- Buck converter simulation and PCB layout using LTSpice & KiCad  
-- Exploring embedded ML for low-power sensor systems  
-- Building real-time data dashboards for hardware telemetry
+- Prototyping my LTSpice buck converter design into a real circuit for measured efficiency and thermal testing  
+- Exploring **embedded ML (TinyML)** for predictive sensor control on Raspberry Pi  
+- Developing a **custom Unreal Engine plugin** for procedural animation and modular gameplay logic  
 
 ---
 
